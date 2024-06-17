@@ -11,6 +11,10 @@ This repo is made together with this explanation video:(click on it)
 # Hardware infos
 
 SoC: BlueX Micro RF03 - 200KB RAM 512KB Flash
+
 HRS Sensor: VCare VC30F
+
 ACCL Sensor: STK8321
+
 Battery: 17mAh
+
