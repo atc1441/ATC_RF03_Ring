@@ -18,3 +18,8 @@ ACCL Sensor: STK8321
 
 Battery: 17mAh
 
+
+P00 SWCK
+
+P01 SWD
+
