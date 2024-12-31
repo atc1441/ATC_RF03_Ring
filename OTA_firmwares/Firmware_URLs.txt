@@ -1,3 +1,4 @@
 http://api2.qcwxkjvip.com/download/ota/R01_V1.0/R01_1.00.01_231229.bin
 http://api2.qcwxkjvip.com/download/ota/R02_V1.0/R02_1.00.05_211220.bin
 http://api2.qcwxkjvip.com/download/ota/R02_V3.0/R02_3.00.06_240523.bin
+http://api2.qcwxkjvip.com/download/ota/R02_V3.0/R02_3.00.17_240903.bin
